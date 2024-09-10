@@ -1,2 +1,2 @@
-# Machine-Learning-EE-535
-The branches attached to this are some of the relatively minor projects I completed as part of my Machine Learning course at LUMS during my undergraduate. The python notebook file (.ipynb) for each of these projects contains all the code and info about the respective project. 
+# MP6: Transformers for Language Modeling
+In this notebook, I will be implementing a 'Transformer' model, namely `CheapGPT`, from scratch. The python notebook MP6.ipynb will detail all of this. 
